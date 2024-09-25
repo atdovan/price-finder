@@ -1,4 +1,4 @@
-# Stock Trading Strategy using LassoCV
+# Stock price predictor using various regression models 
 
 This project implements a stock trading strategy for Google (`GOOG`) using a LassoCV model. The strategy is based on predictive modeling of stock returns using technical indicators and lagged returns. The model predicts future stock price direction, and trades are executed based on these predictions.
 
